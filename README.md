@@ -1,6 +1,4 @@
 i just want to save some gits
-im cooming
-
 
 <!---
 
